@@ -63,38 +63,7 @@ A dedicated and responsible **Software Engineer** with a strong foundation in so
 
 ---
 
-## 🚀 Projects
 
-### 🏥 Automated Report Generation System for NINDT &nbsp;`2022`
-> Automated reporting system built to enhance efficiency, accuracy, and data-driven decision-making in a healthcare context.
-
-- ✅ Integrated with healthcare systems to streamline data collection and analysis
-- ✅ Implemented data validation and quality control measures for report accuracy
-- ✅ **Reduced manual reporting time by 75%** while improving data consistency and accessibility
-
----
-
-### 🚌 Smart Bus Booking System &nbsp;`2023`
-> Comprehensive web platform for bus reservation management with search and booking capabilities.
-
-- ✅ Designed and implemented a relational database schema for efficient data management
-- ✅ Developed an operator scheduling system with real-time availability tracking
-- ✅ Created a user-friendly interface with **responsive design** and role-based access control
-
----
-
-### 🎓 Conference Management System &nbsp;`2023`
-> Full-featured platform for managing research conferences and academic submissions.
-
-- ✅ Implemented **role-based access control** for organizers, reviewers, and participants
-- ✅ Built session management with automated scheduling and conflict resolution
-- ✅ Integrated submission tracking and review workflow management features
-
----
-
-
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" />
